@@ -86,3 +86,34 @@ For anomalous logs, the RCA agent:
 
 ```text
 Logs → Parse → Store → Detect Anomaly → RCA → Alert → Feedback → Improve
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone <repo_url>
+cd <repo_name>
+
+npm install
+# or
+pip install -r requirements.txt
+
+npm start
+# or
+python app.py
+
+📊 Use Cases
+☁️ Cloud infrastructure monitoring
+🛠️ DevOps incident debugging
+🚨 Production issue detection
+🤖 Automated failure analysis
+
+
+🔮 Future Enhancements
+🔗 Integration with more observability tools
+🤖 Advanced LLM-based RCA explanations
+📈 Predictive failure detection
+🌐 Multi-tenant supportv
