@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
 npm start
 # or
-python app.py
+python app.py  ### 
 
 📊 Use Cases
 ☁️ Cloud infrastructure monitoring
